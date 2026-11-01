@@ -250,3 +250,17 @@ VITE_SUPABASE_PROJECT_ID=your-project-id
 
 Developed as part of a college project.  
 Built with ❤️ using React, TypeScript, and Supabase.
+
+
+---
+
+## 🛡️ Additional project: Sentinel-X
+
+This repository also contains **Sentinel-X**, a separate defensive cybersecurity and applied-ML portfolio demo.
+
+- [Open Sentinel-X project](./SentinelX_Project/)
+- [Sentinel-X setup and documentation](./SentinelX_Project/README.md)
+- [Sentinel-X source code](./SentinelX_Project/src/)
+- [Sentinel-X automated tests](./SentinelX_Project/tests/)
+
+Sentinel-X is a local honeypot simulation. It detects suspicious input in its own demo portal, records incidents locally, and applies a temporary lockout to that portal. It does not access or retaliate against other systems. See its README for setup, privacy notes, limitations, and authorized-use guidance.
